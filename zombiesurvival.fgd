@@ -1,8 +1,8 @@
-//////////////////////////////////////////////////////////////////////////////////
-// NoXiousNet Zombie Survival FGD                                               //
-// If there are any bugs with this file, or any additions that need to be made  //
-// make a post at: http://www.noxiousnet.com/forums/index.php?topic=14910       //
-//////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////
+// NoXiousNet Zombie Survival FGD                                                 //
+// If there are any bugs with this file, or any additions that need to be made    //
+// make a post at: https://github.com/TrustyCheater-EXE/TrustNova-FGD/issues/new  //
+////////////////////////////////////////////////////////////////////////////////////
 
 @include "base.fgd"
 @include "halflife2.fgd"
